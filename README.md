@@ -56,7 +56,7 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="40" height="40"/>
   </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/452/dart.png" alt="Dart Logo" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="Dart Logo" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios/452/flutter.png" alt="Flutter Logo" width="40" height="40"/>
