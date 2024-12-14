@@ -56,10 +56,10 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="40" height="40"/>
   </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://dart.dev/assets/shared/dart/logo/64.svg" alt="Dart Logo" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Dart_logo.png" alt="Dart Logo" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://flutter.dev/assets/flutter-logo.svg" alt="Flutter Logo" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo.png" alt="Flutter Logo" width="40" height="40"/>
   </a>
 </p>
 
